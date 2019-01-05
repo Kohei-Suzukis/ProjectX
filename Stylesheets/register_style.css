@@ -1,0 +1,38 @@
+.register-form{
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.register-form input{
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    border: none;
+    background-color: rgb(206, 206, 206);
+    font-family: arial;
+    font-size: 15px;
+    color: #111;
+    line-height: 40px;
+}
+
+.register-form button{
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    height: 40px;
+    border: none;
+    background-color: #221;
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+    line-height: 40px;
+    cursor: pointer;
+}
+
+.register-form button:hover{
+
+    background-color: #111;
+
+}

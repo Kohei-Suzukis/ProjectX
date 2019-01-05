@@ -1,0 +1,95 @@
+.body{
+    background-color: white;
+}
+
+.main-wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+header nav{
+    width: 100%;
+    height: 60px;
+    background-color: green;
+}
+
+header nav ul{
+    float: left;
+}
+
+header nav ul li{
+    float: left;
+    list-style: none;
+}
+
+header nav ul li a{
+    font-family: arial;
+    font-size: 12px;
+    color: #111;
+    line-height: 50px;
+}
+
+header .login-form{
+    float: right;
+}
+
+header .login-form form{
+    float: left;
+    padding-top: 15px;
+}
+
+header .login-form form input{
+    float: left;
+    width: 150px;
+    height: 30px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    border: none;
+    background-color: lime;
+    font-family: arial;
+    font-size: 12px;
+    color: #111;
+    line-height: 30px;
+}
+
+header .login-form form button{
+    float: left;
+    width: 60px;
+    height: 30px;
+    margin-right: 10px;
+    border: none;
+    background-color: lightblue;
+    font-family: arial;
+    font-size: 12px;
+    color: #111;
+    cursor: pointer;
+}
+header .login-form form button:hover{
+    background-color: blue;
+}
+
+header .login-form a{
+    float: left;
+    display: block;
+    width: 60px;
+    height: 60px; 
+    border: none;
+    background-color: green;
+    font-family: arial;
+    font-size: 12px;
+    color: #111;
+    line-height: 63px;
+    cursor: pointer;    
+}
+
+.main-container{
+    padding-top: 40px;
+}
+
+.main-container h2{
+    font-family: arial;
+    font-size: 40px;
+    color: #111;
+    line-height: 50px;
+    text-align:center;
+}
